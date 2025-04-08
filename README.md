@@ -9,10 +9,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A Dockerized Smart Home web application built with Flask, MySQL, and Nginx. This stack is ideal for experimenting with a microservices-based architecture in a local or development environment.
+A Dockerized Sensors Dashboard application built with Flask, MySQL, and Nginx.
+This stack is ideal for experimenting with a microservices-based architecture in a local or development environment.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/smart-home-system/main/screenshots/dashboard.png" alt="Smart Home Dashboard Screenshot" width="600"/>
+  <img src="https://raw.githubusercontent.com/yourusername/sensors_dashboard/main/screenshots/dashboard.png" alt="Smart Home Dashboard Screenshot" width="600"/>
 </p>
 
 ## 📦 Stack Overview
@@ -52,8 +53,8 @@ A Dockerized Smart Home web application built with Flask, MySQL, and Nginx. This
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/smart-home-system.git
-cd smart-home-system
+git clone https://github.com/yourusername/sensors_dashbaord.git
+cd sensors_dashbaord
 ```
 
 2. Start all services:
@@ -129,7 +130,7 @@ docker compose up --build
 You can pull the prebuilt image (if published):
 
 ```bash
-docker pull cnshimba/smart-home-system
+docker pull cnshimba/sensors_dashboard
 ```
 
 ---

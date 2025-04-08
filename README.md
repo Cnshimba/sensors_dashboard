@@ -139,7 +139,7 @@ docker pull cnshimba/sensors_dashboard
 
 | Dashboard View |
 |----------------|
-| ![screenshot](https://raw.githubusercontent.com/cnshimba/smart-home-system/main/screenshots/dashboard.png) |
+| ![screenshot](https://github.com/Cnshimba/sensors_dashboard/blob/main/dashboard.png) |
 
 ---
 

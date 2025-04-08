@@ -13,7 +13,7 @@ A Dockerized Sensors Dashboard application built with Flask, MySQL, and Nginx.
 This stack is ideal for experimenting with a microservices-based architecture in a local or development environment.
 
 <p align="center">
-  <img src="https://github.com/Cnshimba/sensors_dashboard/blob/main/dashboard.png" alt="Smart Home Dashboard Screenshot" width="600"/>
+  <img src="dashboard.png" alt="Smart Home Dashboard Screenshot" width="600"/>
 </p>
 
 ## 📦 Stack Overview
